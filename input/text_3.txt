@@ -1,0 +1,10 @@
+Apostolos Giovanis, Ioannis Rizomyliotis, Kleopatra Konstantoulaki, Solon Magrizos,
+Mining the hidden seam of proximity m-payment adoption: A hybrid PLS-artificial neural network analytical approach,
+European Management Journal,
+2021,
+,
+ISSN 0263-2373,
+https://doi.org/10.1016/j.emj.2021.09.007.
+(https://www.sciencedirect.com/science/article/pii/S0263237321001237)
+Abstract: This study investigates the adoption of proximity mobile payment services (PMPS) using, for the first time, an extended version of the decomposed theory of planned behaviour (DTPB) and considering both the linear and non-linear relationships depicted in the proposed model. Based on a two-stage hybrid analytic methodology, the proposed model was validated empirically using a sample of 951 participants. First, partial least squares (PLS) regression was used to identify the significant drivers of PMPS acceptance predictors. Artificial neural networks (ANN) were then used to rank the relative influence of the significant adoption drivers obtained in the previous step. The PLS results indicate that the extended DTPB provides a solid theoretical framework for studying the adoption of PMPS. The results of the PLS-ANN sensitivity analysis confirmed the PLS results regarding the importance of the determinants' of normative and controlling customers’ beliefs, although there were some contradictions concerning the determination of customer attitudes and behavioural intentions towards PMPS usage. The results are discussed and implications are offered.
+Keywords: Proximity mobile payment; NFC; Decomposed TPB; Perceived risk; Consumer behaviour; Marketing of high-tech m-services

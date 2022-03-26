@@ -1,0 +1,11 @@
+Puneet Mishra, Ramin Nikzad-Langerodi,
+A brief note on application of domain-invariant PLS for adapting near-infrared spectroscopy calibrations between different physical forms of samples,
+Talanta,
+Volume 232,
+2021,
+122461,
+ISSN 0039-9140,
+https://doi.org/10.1016/j.talanta.2021.122461.
+(https://www.sciencedirect.com/science/article/pii/S0039914021003829)
+Abstract: Near-infrared (NIR) calibration models are widely developed and routinely used for the prediction of physicochemical properties of samples. However, the main challenge with NIR models is that they are highly specific to the physical form of the samples. For example, a NIR calibration established for solid samples can usually not be used for the same samples in powdered form. Domain adaption (DA) techniques, such as domain invariant partial least-squares (di-PLS) regression, have recently appeared in the chemometric domain which allow adapting NIR calibrations for new sample-/instrument- or environment-associated conditions in a standard free manner. A practical use case of di-PLS can be assumed as the adaption of NIR calibration models to be used in different physical forms of samples. In this contribution we show, for the first time, application of di-PLS regression analysis for adapting a near-infrared (NIR) calibration for solid rice kernels to be used on powdered rice flour without the need for new reference measurements for the latter. di-PLS is a domain adaption technique that removes the differences between different but related data sources (i.e. domains) to reach generalized models. The study found that di-PLS allowed a direct adaption of calibration based on solid rice kernels to be used on powdered rice flour without requiring any reference protein measurements for the latter. Our results suggest that DA tools, such as di-PLS, can support a wider usage of chemometric calibrations especially when models need to be adapted to different physical forms of the same samples.
+Keywords: Domain adaption; Transfer learning; Spectroscopy; Food

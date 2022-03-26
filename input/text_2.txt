@@ -1,0 +1,11 @@
+Marina De Géa Neves, Ronei Jesus Poppi, Márcia Cristina Breitkreitz,
+Authentication of plant-based protein powders and classification of adulterants as whey, soy protein, and wheat using FT-NIR in tandem with OC-PLS and PLS-DA models,
+Food Control,
+Volume 132,
+2022,
+108489,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2021.108489.
+(https://www.sciencedirect.com/science/article/pii/S0956713521006277)
+Abstract: This study aimed at developing a non-invasive and rapid method to determine the authenticity of plant-based protein powders (free of soy, lactose, and gluten), and classify possible adulterations in the powders using near-infrared spectroscopy (NIR) and chemometric tools. Three potential powder adulterants were investigated: soy protein, whey (lactose source), and wheat (gluten source). The goal was to achieve untargeted and targeted detection to solve problems related to the authentication of the protein powders and the classification of the adulterants. For this purpose, the OC-PLS (one-class partial least squares) model was used for authentication and the PLS2-DA (partial least squares discriminant analysis) model was used to classify the adulterants. VIP (variable importance in projection) scores were used to confirm the main relevant variables and spectral ranges were responsible for each class in PLS2-DA. Laboratory samples were prepared by adding 10, 15, 20, 25, 30, 35 and 40% (w/w) of each adulterant into pure plant-based protein powder samples. In total, 47 pure plant-based protein powder samples and 144 adulterated samples were analyzed. The analysis results indicate a promising way of combining one-class (OC-PLS) with multiclass (PLS-DA) methods, in tandem with NIR to investigate plant-based protein powders. Due to the speed, high sensitivity, and specificity of the methodology, and no requirement of sample preparation, the proposed methodology could be successfully used in a range of 10–40% of adulteration, to verify the authenticity of the plant-based protein powders and to classify adulterants into soy, whey, and wheat.
+Keywords: Plant-based protein powder; PLS-DA; OC-PLS; Soy protein; Whey; Wheat; Authentication; And adulteration
